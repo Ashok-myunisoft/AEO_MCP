@@ -1,0 +1,15 @@
+
+mcp[cli]>=2.3.0,<3
+sqlalchemy
+psycopg[binary]
+pydantic
+pydantic-settings
+qdrant-client
+httpx
+beautifulsoup4
+lxml
+pymupdf
+python-docx
+openpyxl
+python-dotenv
+alembic
